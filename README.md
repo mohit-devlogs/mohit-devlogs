@@ -30,5 +30,3 @@
 ---
 
 > Building in silence. Shipping with intent.
-
--->
