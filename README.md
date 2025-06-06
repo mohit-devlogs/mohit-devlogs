@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Mohit 👋
 
-<!--
-**mohit-devlogs/mohit-devlogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer on a mission to solve real problems  
+🛠️ Deep into building projects & crushing DSA daily  
+📈 Documenting my growth and leveling up step-by-step
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript  
+- React, Node.js, Express, MongoDB  
+- Git, GitHub, REST APIs
+
+---
+
+## 🚧 Projects in Progress
+- **Budget Buddy** – A simple budgeting app for students (React + LocalStorage)  
+- **QuickJobs** – A job board clone with filter/sort and role-based login (MERN stack)  
+- **MiniForum** – A college community discussion board (Mongo + Auth)
+
+*(More projects coming soon — all deployed, documented & actively maintained.)*
+
+---
+
+## 🎯 Current Focus
+- Ship 3 real-world projects by July 6  
+- Solve 100+ DSA problems  
+- Share progress & portfolio publicly
+
+---
+
+> Building in silence. Shipping with intent.
+
 -->
