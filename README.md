@@ -13,12 +13,11 @@
 
 ---
 
-## 🚧 Projects in Progress
-- **Budget Buddy** – A simple budgeting app for students (React + LocalStorage)  
-- **QuickJobs** – A job board clone with filter/sort and role-based login (MERN stack)  
-- **MiniForum** – A college community discussion board (Mongo + Auth)
+## 🚧 Learning & Projects in Progress
 
-*(More projects coming soon — all deployed, documented & actively maintained.)*
+- Currently mastering HTML, CSS, and JavaScript fundamentals  
+- Building small projects to solidify my skills (to-do list, portfolio site)  
+- Planning to develop full-stack applications soon (Budget Buddy, QuickJobs)
 
 ---
 
